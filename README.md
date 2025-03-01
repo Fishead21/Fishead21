@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fishead21
-- 👀 I’m interested in ... Front end dev,UI/UX designs,APP dev (flutter)
-- 🌱 I’m currently learning ...next.js , django 
+- 👀 I’m a Full stack developer and also a web3.0 developer.
+- 🌱 I’m currently learning ...Rust & Solidity.
 - 💞️ I’m looking to collaborate on ... small projects with other developer with different mindset until we can work on big projects
 - 📫 How to reach me ...whatsapp me 07043086463
 - 😄 Pronouns: ...
